@@ -222,7 +222,7 @@ export function App() {
         navegador, sobre telemetria sintética gerada por um modelo físico declarado. Não há dado de
         planta industrial real neste repositório.
         <br />
-        <strong>Licença:</strong> Apache-2.0 · <strong>Código:</strong>{' '}
+        <strong>Licença:</strong> MIT · <strong>Código:</strong>{' '}
         <a href={REPO_URL} target="_blank" rel="noreferrer">
           github.com/barrosyan/afero
         </a>

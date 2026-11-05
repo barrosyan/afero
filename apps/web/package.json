@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Demo do Afero: gêmeo digital industrial verificado.",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -20,7 +20,7 @@ Checklist conferido contra o [regulamento](https://hackbrasil.com/regulamento).
 |---|---|
 | Uma trilha | Logística e automação |
 | Demo funcionando, sem login | GitHub Pages, 100 % no navegador |
-| Vídeo de até 3 minutos, acessível sem login | Roteiro pronto em `docs/VIDEO.md` — gravação pendente |
+| Vídeo de até 3 minutos, acessível sem login | Gravado a partir da própria demo: 2 min 54 s, 1920×1080, narração em pt-BR, legendas embutidas. Roteiro em `docs/VIDEO.md` |
 | Nome, tagline e descrição | `docs/SUBMISSAO.md` |
 | Um envio por time | Sim |
 

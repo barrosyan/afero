@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Serviço HTTP do Afero: diagnóstico, narrativa por LLM validada e ordem de serviço.",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "dependencies": {
     "@afero/core": "*"
   },
