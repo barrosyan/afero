@@ -1,5 +1,7 @@
 # Roteiro do vídeo — 3 minutos
 
+**Gravado e publicado:** https://youtu.be/ZoxlmvQWWCg — 2 min 54 s, 1080p, sem exigir login.
+
 Regra do evento: até 3 minutos, acessível sem login, mostrando **o produto funcionando**.
 Grave a tela em 1080p, com o cursor visível e zoom alto onde o número importa. Fale em português.
 
@@ -82,9 +84,9 @@ deixe o cenário **"Medidor de vazão descalibrado"** selecionado e o modo audit
 
 ## Checklist de gravação
 
-- [ ] Duração ≤ 3:00 (corte seco, sem introdução longa)
-- [ ] Demonstração com o produto **funcionando**, não slides
-- [ ] Áudio limpo; legenda embutida ajuda o júri
-- [ ] Publicar sem exigir login (YouTube não listado ou link direto)
-- [ ] Descrição com: demo, repositório, trilha
-- [ ] Resolução 1080p, fonte legível em tela cheia
+- [x] Duração ≤ 3:00 (corte seco, sem introdução longa) — 2:54
+- [x] Demonstração com o produto **funcionando**, não slides
+- [x] Áudio limpo; legenda embutida ajuda o júri — narração sintetizada em pt-BR, legendas gravadas na própria página
+- [x] Publicar sem exigir login (YouTube não listado ou link direto) — https://youtu.be/ZoxlmvQWWCg
+- [x] Descrição com: demo, repositório, trilha
+- [x] Resolução 1080p, fonte legível em tela cheia

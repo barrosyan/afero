@@ -51,7 +51,7 @@ ordem de serviço no sistema de manutenção (CMMS), com a evidência anexada.
 
 - Repositório: https://github.com/barrosyan/afero
 - Demo (online, sem login): https://barrosyan.github.io/afero/
-- Vídeo (até 3 min): _link público a preencher — gravação pronta (2 min 54 s, 1920×1080, pt-BR)_
+- Vídeo (até 3 min): https://youtu.be/ZoxlmvQWWCg — 2 min 54 s, 1920×1080, pt-BR
 
 ## Tecnologias
 

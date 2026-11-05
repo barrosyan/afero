@@ -9,7 +9,7 @@
 [![licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)](LICENSE)
 [![testes](https://img.shields.io/badge/testes-18%20passando-3ddc97)](packages/core/tests/core.test.ts)
 
-**[▶ abrir a demo](https://barrosyan.github.io/afero/)** · [arquitetura](docs/ARQUITETURA.md) · [benchmark](benchmarks/REPORT.md) · [roteiro do vídeo](docs/VIDEO.md)
+**[▶ abrir a demo](https://barrosyan.github.io/afero/)** · **[▶ vídeo de 2 min](https://youtu.be/ZoxlmvQWWCg)** · [arquitetura](docs/ARQUITETURA.md) · [benchmark](benchmarks/REPORT.md) · [roteiro do vídeo](docs/VIDEO.md)
 
 </div>
 
