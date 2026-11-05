@@ -1,0 +1,38 @@
+[
+  {
+    "id": "normal",
+    "name": "Operação normal",
+    "description": "Conjunto motobomba em regime, sem degradação e com instrumentação calibrada.",
+    "truth": "NORMAL"
+  },
+  {
+    "id": "sensor-deriva",
+    "name": "Medidor de vazão descalibrado",
+    "description": "O medidor de vazão do recalque lê 8 % abaixo do real. Bomba e processo estão sadios.",
+    "truth": "SENSOR_VAZAO_FORA_DE_CALIBRACAO"
+  },
+  {
+    "id": "desgaste-rotor",
+    "name": "Desgaste real do rotor",
+    "description": "Rotor desgastado: a curva perde 6 % de altura e 10 % de rendimento. Sensores íntegros.",
+    "truth": "DEGRADACAO_HIDRAULICA"
+  },
+  {
+    "id": "cavitacao",
+    "name": "Cavitação por NPSH insuficiente",
+    "description": "Pressão de sucção caiu para 0,42 bar abs: o NPSH disponível fica abaixo do requerido.",
+    "truth": "CAVITACAO"
+  },
+  {
+    "id": "transiente",
+    "name": "Estrangulamento de válvula",
+    "description": "Válvula fechada de 100 % para 62 % no meio da janela: dois regimes na mesma janela.",
+    "truth": "OPERACAO_FORA_DE_DOMINIO"
+  },
+  {
+    "id": "dados-ruins",
+    "name": "Instrumentação degradada",
+    "description": "Sensor de temperatura travado e lacuna de 70 minutos na aquisição.",
+    "truth": "DADOS_INSUFICIENTES"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "afero",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Gêmeo digital industrial que prova o que afirma — física verificada, não confiança implícita.",
+  "license": "Apache-2.0",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @afero/web",
+    "build": "npm run build -w @afero/web",
+    "test": "npm run test -w @afero/core",
+    "typecheck": "npm run typecheck -w @afero/core && npm run typecheck -w @afero/web",
+    "benchmark": "node scripts/benchmark.ts",
+    "data": "node scripts/generate-data.ts",
+    "api": "node apps/api/src/server.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/node": "^22.9.0"
+  }
+}

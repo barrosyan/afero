@@ -1,0 +1,27 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: instalar
+        run: npm ci
+      - name: tipos
+        run: npm run typecheck
+      - name: testes
+        run: npm run test
+      - name: benchmark
+        run: npm run benchmark
+      - name: build da demo
+        run: npm run build
+      - name: o benchmark do repositório está atualizado?
+        run: git diff --exit-code benchmarks/REPORT.md
